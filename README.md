@@ -131,7 +131,7 @@ add_action('save_post', 'on_save_post', 10, 3);
 ## 📕 Mesaj Gönderme
 Artık mesaj göndermeye hazırsınız! `send_to_discord` fonksiyonunu kullanarak istediğiniz yerden Discord kanalınıza anlık mesajlar gönderebilirsiniz.
 
-```
+```php
 send_to_discord($title, $author, $date, $content, $link, $image_url, $webhook_url, $author_avatar);
 ```
 
