@@ -140,7 +140,7 @@ send_to_discord($title, $author, $date, $content, $link, $image_url, $webhook_ur
 **Hata Ayıklama:** Eğer mesaj gitmiyorsa, curl ayarlarınızı ve webhook URL’nizi kontrol edin. Daha fazla destek için discord sunucumuza gelebilirsiniz.
 
 ## ✉️ Yardım ve Destek
-Bu entegrasyonla ilgili herhangi bir sorun yaşarsanız veya ek yardıma ihtiyacınız olursa, Discord Sunucumuzdan veya GitHub Issues sayfasına giderek ve bir destek talebi oluşturabilirsiniz.
+Bu entegrasyonla ilgili herhangi bir sorun yaşarsanız veya ek yardıma ihtiyacınız olursa, Discord sunucumuzdan veya GitHub Issues sayfasına giderek ve bir destek talebi oluşturabilirsiniz.
 
 ## ✒️ Katkıda Bulunma
 Bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları izleyin:
