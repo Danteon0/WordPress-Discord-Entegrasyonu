@@ -11,6 +11,8 @@
   </a>
 </p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/496393095282294796)](https://discord.com/users/496393095282294796)
+
 # 🤖 WordPress Discord Gönderi Entegrasyonu
 
 Bu proje, WordPress sitenizde yayınlanan yeni blog gönderilerini otomatik olarak bir Discord kanalında paylaşmak için kullanılan bir entegrasyon örneğidir. Bu sayede, her yeni gönderi otomatik olarak belirlediğiniz Discord kanalına iletilir, böylece takipçileriniz güncel içeriklere anında erişebilirler.
