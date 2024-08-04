@@ -128,7 +128,7 @@ add_action('save_post', 'on_save_post', 10, 3);
 ```
 
 2. **Webhook URL’sini Güncelleyin:**
-- `YOUR_DISCORD_WEBHOOK_URL` kısmını oluşturduğunuz webhook URL'si ile değiştirin.
+- `WEBHOOK_URL` kısmını oluşturduğunuz webhook URL'si ile değiştirin.
 
 ## 📕 Mesaj Gönderme
 Artık mesaj göndermeye hazırsınız! `send_to_discord` fonksiyonunu kullanarak istediğiniz yerden Discord kanalınıza anlık mesajlar gönderebilirsiniz.
@@ -136,6 +136,10 @@ Artık mesaj göndermeye hazırsınız! `send_to_discord` fonksiyonunu kullanara
 ```php
 send_to_discord($title, $author, $date, $content, $link, $image_url, $webhook_url, $author_avatar);
 ```
+
+**Örnek Gönderi:**
+
+![Ön Gösterim](https://github.com/Danteon0/WordPress-Discord-Entegrasyonu/blob/main/assets/post.png)
 
 ## 📕 Dikkat Edilmesi Gerekenler
 **Güvenlik:** Webhook URL’nizi kimseyle paylaşmayın.
